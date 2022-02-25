@@ -20,6 +20,7 @@ public class DefragmentTest {
         String[] expected = {"I", "wanna", "be", "compressed", null, null, null};
         Assert.assertArrayEquals(expected, result);
     }
+
     @Test
     public void firstNull() {
         String[] input = {null, "I", "wanna", null, "be", null, "compressed"};

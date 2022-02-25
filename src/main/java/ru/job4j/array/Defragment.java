@@ -10,6 +10,7 @@ public class Defragment {
                         array[i] = null;
                         break;
                     }
+
                 }
             }
         }
