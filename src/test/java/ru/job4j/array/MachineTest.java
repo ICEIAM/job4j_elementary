@@ -13,7 +13,6 @@ public class MachineTest {
         Assert.assertArrayEquals(expected, result);
     }
 
-
     @Test
     public void when50by35() {
         int money = 50;
