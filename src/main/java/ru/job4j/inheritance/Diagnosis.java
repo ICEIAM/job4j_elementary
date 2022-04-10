@@ -8,3 +8,4 @@ public class Diagnosis {
         return this.diagnosis;
     }
 }
+
